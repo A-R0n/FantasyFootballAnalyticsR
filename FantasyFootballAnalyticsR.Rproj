@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 I am making a change to the code
+This is my second change to be committed.
